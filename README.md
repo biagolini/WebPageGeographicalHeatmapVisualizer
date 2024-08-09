@@ -16,6 +16,11 @@ The primary goal of this project is to offer a straightforward way to analyze an
   - Maximum value for normalization
 - Group-based filtering to visualize specific data categories.
 
+## Access the Tool Online
+
+You can access the heatmap visualization tool online via GitHub Pages:  
+[Heatmap Visualization Tool](https://biagolini.github.io/WebPageGeographicalHeatmapVisualizer/)
+
 ## Getting Started
 
 ### Prerequisites
